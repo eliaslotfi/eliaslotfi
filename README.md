@@ -1,189 +1,193 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:003b00,50:00ff41,75:003b00,100:0d1117&height=250&section=header&text=ELIAS%20LOTFI&fontSize=80&fontColor=00ff41&fontAlignY=30&desc=%E2%96%88%E2%96%88%20Cybersecurity%20Student%20%E2%80%A2%20Self-Taught%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%96%88%E2%96%88&descSize=16&descAlignY=52&descColor=ffffff&animation=fadeIn"/>
+<!-- ✿ HEADER ✿ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,25:FF69B4,50:FF1493,75:FF69B4,100:FFB6C1&height=250&section=header&text=🌸%20Elias%20Lotfi%20🌸&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=✧%20Cybersecurity%20Student%20%E2%80%A2%20Self-Taught%20Developer%20%E2%80%A2%20Network%20Engineer%20✧&descSize=16&descAlignY=52&descColor=fff0f5&animation=fadeIn"/>
 
-<!-- TYPING SVG ANIMATION -->
+<!-- ✿ TYPING SVG ✿ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%94%8C%E2%94%80%5Belias%40kali%5D%E2%94%80%5B~%5D;%E2%94%94%E2%94%80%24+Securing+the+web%2C+one+line+of+code+at+a+time+%F0%9F%94%92;%E2%94%8C%E2%94%80%5Belias%40kali%5D%E2%94%80%5B~%5D;%E2%94%94%E2%94%80%24+Building+dashboards+%7C+Breaking+systems+%7C+Learning+always+%F0%9F%92%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%8C%B8+Welcome+to+my+digital+garden+%F0%9F%8C%B8;%F0%9F%94%90+Hacking+with+love+%7C+Building+with+passion+%F0%9F%92%96;%F0%9F%8C%B7+Cybersec+%E2%9C%BF+Web+Dev+%E2%9C%BF+Networking+%F0%9F%8C%B7" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=eliaslotfi&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+<!-- ✿ BADGES ✿ -->
+<img src="https://komarev.com/ghpvc/?username=eliaslotfi&label=🌷+Profile+Views&color=FF69B4&style=for-the-badge&labelColor=fff0f5" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/eliaslotfi?tab=followers">
-  <img src="https://img.shields.io/github/followers/eliaslotfi?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/eliaslotfi?label=🌸+Followers&style=for-the-badge&color=FF69B4&labelColor=fff0f5&logo=github&logoColor=FF69B4" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/eliaslotfi?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/eliaslotfi?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/eliaslotfi?label=⭐+Stars&style=for-the-badge&color=FF69B4&labelColor=fff0f5&logo=github&logoColor=FF69B4" alt="Stars"/>
 </a>
 
 <br/><br/>
 
-<!-- NEWSLETTER BANNER -->
+<!-- ✿ NEWSLETTER BANNER ✿ -->
 <a href="https://www.kozaki.fr/" target="_blank">
-  <img src="https://img.shields.io/badge/📬_KOZAKI.FR-Abonne--toi_à_ma_newsletter!-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Kozaki Newsletter" height="40"/>
+  <img src="https://img.shields.io/badge/📬_KOZAKI.FR-💌_Abonne--toi_à_ma_newsletter!-FF1493?style=for-the-badge&labelColor=FFB6C1&logoColor=white" alt="Kozaki Newsletter" height="42"/>
 </a>
+
+<br/>
+
+<!-- ✿  FLOWER DECORATION ✿ -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
 
-<br/>
-
-<!-- MATRIX DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; `┌──[elias@kali]──[~/about_me]`
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiMTA5ZjdkZGNmN2E0MzQ0Y2RjYzhjODdhZWJmMWRkMjMwMjQ0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TEnXkcsHrP4YedChhA/giphy.gif" width="35">&nbsp; `🌸 About Me`
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2ZHRiOWF6eHlrMmRkY2Nrdm5hNm41NTFtaXQ3NHo2cjh0b2ppYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker GIF"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2ZHRiOWF6eHlrMmRkY2Nrdm5hNm41NTFtaXQ3NHo2cjh0b2ppYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
-```bash
-#!/bin/bash
-# ╔═══════════════════════════════════════════╗
-# ║     elias@kali:~$ ./about_me.sh          ║
-# ╚═══════════════════════════════════════════╝
+```ruby
+# ╔═══════════════════════════════════════╗
+# ║    🌸 elias@lotfi-kali:~ $ whoami    ║
+# ╚═══════════════════════════════════════╝
 
-IDENTITY="Elias Lotfi"
-STATUS="Cybersecurity Student & Self-Taught Dev"
+class EliasProfil
+  def initialize
+    @name     = "Elias Lotfi"
+    @role     = "Cybersecurity Student 🔐"
+    @style    = "Self-Taught Developer 💻"
+    @hobby    = "Network Architect 🌐"
+  end
 
-echo "[*] Scanning profile..."
+  def skills
+    {
+      "🌸 Cybersecurity"  => "Pentesting, CTFs, OWASP",
+      "🌷 Web Dev"        => "Sites, Dashboards, APIs",
+      "🌺 Networking"     => "Cisco, TCP/IP, Firewalls",
+      "🌻 Systems"        => "Linux, Docker, Cloud"
+    }
+  end
 
-SKILLS=(
-  "🔐 Cybersecurity & Ethical Hacking"
-  "🌐 Web Development (Sites & Dashboards)"
-  "📡 Network Architecture & Administration"
-  "🛡️ Pentesting & Vulnerability Analysis"
-  "🐧 Linux Systems & Server Hardening"
-)
+  def currently
+    [
+      "📚 Offensive security deep-dive",
+      "💻 Building security dashboards",
+      "🔍 CTFs & Hack The Box labs",
+      "📬 Writing newsletter → kozaki.fr"
+    ]
+  end
 
-CURRENTLY=(
-  "📚 Deepening offensive security skills"
-  "💻 Building web apps & security dashboards"
-  "🔍 Practicing on CTFs & labs"
-  "📬 Writing my newsletter → kozaki.fr"
-)
-
-echo "[✓] Profile loaded successfully."
-echo "[*] Status: Always learning, always building."
+  def motto
+    "Hack with love, code with flowers 🌸🔒"
+  end
+end
 ```
 
 <br clear="right"/>
 
-<br/>
-
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">&nbsp; `└──$ sudo apt install --skills`
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ5bWJ3b3AwcmJsNnB4ZnBqOHVjZXJodTkyeHN0eThvOHV1MXcxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" width="500">&nbsp;
 
 <div align="center">
 
-<!-- SKILL CATEGORY: CYBERSECURITY -->
-<h3>
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="30"/>
-  &nbsp;Cybersecurity & Offensive Security
-</h3>
+<!-- ✿ CYBERSECURITY ✿ -->
+<h3>🔐 Cybersecurity & Ethical Hacking</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Hashcat-3E4349?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-00599C?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Hashcat-3E4349?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-00599C?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
 </p>
 
-<!-- SKILL CATEGORY: NETWORKING -->
-<h3>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"/>
-  &nbsp;Networking & Infrastructure
-</h3>
+<!-- ✿ NETWORKING ✿ -->
+<h3>🌐 Networking & Infrastructure</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/DNS%2FDHCP-FF6C37?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/VPN-4B275F?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Firewall-DD0031?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/VLAN_&_Subnetting-009688?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/GNS3-48A842?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/DNS%2FDHCP-FF6C37?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/VPN-4B275F?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Firewall-DD0031?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/VLAN_&_Subnetting-009688?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/GNS3-48A842?style=for-the-badge&logoColor=white&labelColor=FFB6C1"/>
 </p>
 
-<!-- SKILL CATEGORY: WEB DEV -->
-<h3>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30"/>
-  &nbsp;Web Development & Dashboards
-</h3>
+<!-- ✿ WEB DEV ✿ -->
+<h3>💻 Web Development & Dashboards</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php&theme=light" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgres,mongodb,figma,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgres,mongodb,figma,vscode,git,github&theme=light" />
 </p>
 
-<!-- SKILL CATEGORY: DEVOPS & SYSTEMS -->
-<h3>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"/>
-  &nbsp;DevOps, Cloud & Systems
-</h3>
+<!-- ✿ DEVOPS ✿ -->
+<h3>☁️ DevOps, Cloud & Systems</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,azure,ansible,grafana,prometheus,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,azure,ansible,grafana,prometheus,redis&theme=light" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; `└──$ cat /var/log/github_stats.log`
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; `🌺 GitHub Stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eliaslotfi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&ring_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eliaslotfi&show_icons=true&theme=rose_pine&bg_color=fff0f5&border_color=FF69B4&icon_color=FF1493&title_color=FF1493&text_color=880044&ring_color=FF69B4&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaslotfi&layout=donut-vertical&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaslotfi&layout=donut-vertical&theme=rose_pine&bg_color=fff0f5&border_color=FF69B4&title_color=FF1493&text_color=880044&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=eliaslotfi&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=eliaslotfi&theme=default&background=FFF0F5&border=FF69B4&stroke=FF69B4&ring=FF1493&fire=FF1493&currStreakNum=FF1493&sideNums=FF69B4&currStreakLabel=FF1493&sideLabels=FF69B4&dates=CC6699" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eliaslotfi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Timeline&title_color=00ff41" alt="Activity Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eliaslotfi&bg_color=fff0f5&color=FF1493&line=FF69B4&point=FF1493&area_color=FFB6C1&area=true&hide_border=false&custom_title=🌸%20Contribution%20Garden%20🌸&title_color=FF1493&border_color=FF69B4" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=eliaslotfi&theme=matrix&no-bg=true&no-frame=false&column=-1&row=1&margin-w=8&margin-h=8" alt="Trophies"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=eliaslotfi&theme=monokai&no-bg=false&no-frame=false&column=-1&row=1&margin-w=8&margin-h=8&title_color=FF69B4" alt="Trophies"/>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
-## 🐍 `└──$ python3 snake.py --eat-contributions`
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+
+## 🐍 `🌸 Contribution Snake`
 
 <div align="center">
 
@@ -197,89 +201,108 @@ echo "[*] Status: Always learning, always building."
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"/>&nbsp; `└──$ crontab -l`
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">&nbsp; `🌻 Daily Routine`
 
 <div align="center">
 
 ```text
- ╔══════════════════════════════════════════════════════════════════╗
- ║                    📅 DAILY ROUTINE                             ║
- ╠══════════════════════════════════════════════════════════════════╣
- ║                                                                 ║
- ║  🌙 Night    ██████████████░░░░░░░░░░  56%  🔒 CTFs & Pentesting║
- ║  🌅 Morning  ██████░░░░░░░░░░░░░░░░░░  24%  📚 Research & Study ║
- ║  🌆 Daytime  ████░░░░░░░░░░░░░░░░░░░░  16%  💻 Web Dev          ║
- ║  🌃 Evening  █░░░░░░░░░░░░░░░░░░░░░░░   4%  📬 Newsletter       ║
- ║                                                                 ║
- ╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  🌸              ✿ Elias' Daily Routine ✿              🌸      ║
+║                                                                   ║
+║  🌙 Night    ██████████████░░░░░░░░░░  56%  🔒 CTFs & Pentesting ║
+║  🌅 Morning  ██████░░░░░░░░░░░░░░░░░░  24%  📚 Research & Study  ║
+║  🌆 Daytime  ████░░░░░░░░░░░░░░░░░░░░  16%  💻 Web Development   ║
+║  🌃 Evening  █░░░░░░░░░░░░░░░░░░░░░░░   4%  📬 Kozaki.fr         ║
+║                                                                   ║
+║       🌷 "Hack with love, code with flowers" 🌷                 ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">&nbsp; `└──$ netstat -an | grep ESTABLISHED`
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">&nbsp; `🌷 Connect with Me`
 
 <div align="center">
 
-<!-- NEWSLETTER CTA -->
+<!-- ✿ NEWSLETTER CTA ✿ -->
 <a href="https://www.kozaki.fr/" target="_blank">
-  <img src="https://img.shields.io/badge/📬_KOZAKI.FR-Ma_Newsletter_Cyber_&_Dev-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Kozaki Newsletter" height="45"/>
+  <img src="https://img.shields.io/badge/📬_KOZAKI.FR-💌_Ma_Newsletter_Cyber_&_Dev-FF1493?style=for-the-badge&labelColor=FFB6C1&logoColor=white" alt="Kozaki Newsletter" height="45"/>
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL LINKS -->
+<!-- ✿ SOCIAL LINKS ✿ -->
 <a href="https://www.kozaki.fr/" target="_blank">
-  <img src="https://img.shields.io/badge/Newsletter-Kozaki.fr-00ff41?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="Newsletter"/>
+  <img src="https://img.shields.io/badge/🌸_Newsletter-Kozaki.fr-FF69B4?style=for-the-badge&logo=substack&logoColor=white&labelColor=fff0f5" alt="Newsletter"/>
 </a>
 &nbsp;
 <a href="https://github.com/eliaslotfi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-eliaslotfi-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/🌷_GitHub-eliaslotfi-FF69B4?style=for-the-badge&logo=github&logoColor=FF69B4&labelColor=fff0f5" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/eliaslotfi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/🌺_LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=fff0f5" alt="LinkedIn"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
+<!-- ✿═══════════════════════════════════════════════════════════════════✿ -->
+
 <div align="center">
 
-<!-- HACKER QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.&author=Kali%20Linux" alt="Quote"/>
+<!-- ✿ QUOTE ✿ -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.&author=Kali%20Linux%20🌸" alt="Quote"/>
 
 <br/><br/>
 
 ```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║     
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║     
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-              IS NOT A CRIME — IT'S A MINDSET 🧠💀
+          🌸                    🌷                    🌸
+    ✿                                                        ✿
+         ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
+        ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+        ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+        ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+        ╚██████╗   ██║   ██████╔╝███████╗██║  ██║
+         ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+    ✿                                                        ✿
+         🌺  Security is not a crime                  🌺
+                 — it's a lifestyle 💖
+          🌸                    🌷                    🌸
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:003b00,50:00ff41,75:003b00,100:0d1117&height=150&section=footer&animation=twinkling"/>
+<br/>
+
+<!-- ✿ FOOTER ✿ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,25:FF69B4,50:FF1493,75:FF69B4,100:FFB6C1&height=150&section=footer&animation=twinkling"/>
 
 </div>
